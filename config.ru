@@ -1,5 +1,5 @@
 require './config/environment'
 
-require 'app.rb'
+require_relative 'app'
 
 run App
